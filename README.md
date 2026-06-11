@@ -4,11 +4,9 @@
 
 Normal content above.
 
-Unavailable embedded content below.
+Unavailable embedded content below  — does the page display as expected?
 
 [stalled embed](_stall-test.md ':include')
-
-Normal content below — does the page display as expected?
 
 It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.
 
